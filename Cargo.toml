@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "talker-rx-rs",
+  "talker-tx-rs",
+]

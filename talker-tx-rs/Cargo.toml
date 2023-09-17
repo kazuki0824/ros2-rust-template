@@ -1,0 +1,10 @@
+[package]
+name = "talker-tx-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+safe_drive = "0.2.1"
+
+[build-dependencies]
+cargo-ament-build = { git = "https://github.com/tier4/cargo-ament-build.git" }
